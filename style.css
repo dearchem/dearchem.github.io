@@ -1,0 +1,37 @@
+html, body{
+  max-width: 700px;
+  margin: auto;
+  padding: 10px;
+  background-color: #ffffff;
+}
+
+h1{
+    text-align: center;
+    vertical-align: top;
+    line-height: 1;
+    font-weight: normal;
+    font-family: monospace;
+    color: #000000;
+    padding-left: 7px;
+}
+
+h2,h3,h4{
+    text-align: left;
+    vertical-align: top;
+    line-height: 1;
+    font-weight: normal;
+    font-family: monospace;
+    color: #000000;
+    padding-left: 7px;
+}
+
+a:link {
+    color: #00bbff;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: #00bbff;
+    background-color: transparent;
+    text-decoration: none;
+  }
